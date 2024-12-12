@@ -50,7 +50,7 @@ Package versions can be found in the requirements.txt file.
 Install packages using the following command line command:
 
 ```
-pip install -r python/requirements.txt
+pip install -r config/requirements.txt
 ```
 
 ## Parameters
@@ -68,5 +68,5 @@ Various Evaluation Metrics and Plots to illustrate the privacy risk of the synth
 Josiah Chua (josiah.chuag@sas.com)
 
 ## Change Log
-Version 1.0.0 ()
+Version 1.0.0 (12DEC2024)
 Initial release on GitHub
