@@ -1,5 +1,5 @@
 # higgs-prediction
-![CMS-PHO-EVENTS-2018-002-5](http://cds.cern.ch/record/2313709/files/run314472_event53576477_v2.png?subformat=icon-640) 
+![CMS-PHO-EVENTS-2018-002-5](./images/run314472_event53576477_v2.png) 
 
 <sup>*run314472_event53576477_v2.png: CMS-PHO-EVENTS-2018-002-5. (CERN 2018). http://cds.cern.ch/record/2313709.*</sup>
 
