@@ -9,7 +9,7 @@ This project explores how hyperparameter autotuning can give you an extra edge i
 
 # Dependencies
 
-For dependencies, see [requirements.txt](https://github.com/stu-code/higgs-prediction/blob/main/requirements.txt).
+For dependencies, see [requirements.txt](./requirements.txt).
 
 # References
 
