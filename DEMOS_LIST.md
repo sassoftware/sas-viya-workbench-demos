@@ -6,8 +6,8 @@ Demos are organised under the following folders.  Click on the respective folder
 
 Note that as these are the early days of the repo, some folders are yet to be populated.  Please check back regularly to view updates.
 
-| [Banking](./banking/) | [Government](./government/) | [Health and Life Sciences](./health-life-sciences) | Miscellaneous |
-| :--- | :--- | :-: | :-: |
+| [Banking](./banking/) | [Government](./government/) | [Health and Life Sciences](./health-life-sciences) | [Physics](./physics) | Miscellaneous |
+| :--- | :--- | :-: | :-: |:--- |
 
 ## List of demos
 
@@ -19,3 +19,4 @@ Note that as these are the early days of the repo, some folders are yet to be po
 | [Diabetes Prediction through Synthetic Data](./health-life-sciences/diabetes-prediction-through-synthetic-data/)| Predict for diabetes and compare predictions with data augmented through synthetic data generation | [Health & Life Sciences](./health-life-sciences/) | fabio.ceruti@sas.com | SAS, Python | 13JAN2025 |
 | [Modeling for Pulmonary Fibrosis Progression](./health-life-sciences/Pulmonary-Fibrosis-Progression-Modeling/)| Coding examples in SAS for predicting pulmonary fibrosis progression using anonymized patient data | [Health & Life Sciences](./health-life-sciences/) | lleyton.seymour@sas.com | SAS | 13MAR2025 |
 | [Diabetes Prediction through Python Classes](./health-life-sciences/diabetes-prediction-extensible-classes/)| Predict for diabetes using a Python class through an Object-oriented Programming paradigm| [Health & Life Sciences](./health-life-sciences/) | sundaresh.sankaran@sas.com | Python | 17APR2025 |
+| [Predicting Higgs Bosons with Hyperparameter Autotuning](./physics/higgs-prediction/) | Predicting exotic particles with hyperparameter autotuning and Gradient Boosting models | [Physics](./physics/) | stu.sztukowski@sas.com | Python | 13JUN2025 | 
