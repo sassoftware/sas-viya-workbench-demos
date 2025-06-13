@@ -7,8 +7,7 @@ This project explores how hyperparameter autotuning can give you an extra edge i
 
 [Check out my blog about this project](https://blogs.sas.com/content/sgf/2025/06/13/boost-ml-accuracy-with-hyperparameter-tuning/) for all the details.
 
-# Environment
-The environment used for this is [SAS Viya Workbench](https://www.sas.com/en_us/software/viya/workbench.html). 
+# Dependencies
 
 For dependencies, see [requirements.txt](https://github.com/stu-code/higgs-prediction/blob/main/requirements.txt).
 
